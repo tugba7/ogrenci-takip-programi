@@ -1,1 +1,5 @@
-# ogrenci-takip-programi
+# ogrenci-takip-programi![öğrenciler](https://github.com/tugba7/ogrenci-takip-programi/assets/169933780/dbff1d1f-bac8-425b-8b55-3407312fe7b9)
+![main](https://github.com/tugba7/ogrenci-takip-programi/assets/169933780/15cfe5f1-106c-4049-8f6f-e433180ff29c)
+![kayıt](https://github.com/tugba7/ogrenci-takip-programi/assets/169933780/89357f7b-eca0-401a-abe4-642c07a2a0d4)
+![dersler](https://github.com/tugba7/ogrenci-takip-programi/assets/169933780/b2d3586e-acd3-4692-bbb7-247ab42806fd)
+![sql bağlantısı](https://github.com/tugba7/ogrenci-takip-programi/assets/169933780/62fb68cd-df50-430a-97c8-767025910df4)
